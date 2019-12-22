@@ -61,7 +61,7 @@
     "materialize-css": "git://github.com/cutls/materialize",
     "sumchecker": "^3.0.1",
     "sweetalert2": "^9.4.0",
-    "vue": "^2.6.10"
+    "vue": "^2.6.11"
   },
   "optionalDependencies": {
     "font-manager": "0.3.0",
