@@ -60,7 +60,7 @@
     "lodash": "^4.17.15",
     "materialize-css": "git://github.com/cutls/materialize",
     "sumchecker": "^3.0.1",
-    "sweetalert2": "^9.4.0",
+    "sweetalert2": "^9.5.4",
     "vue": "^2.6.10"
   },
   "optionalDependencies": {
